@@ -1,0 +1,1 @@
+just for learning how create an npm package
